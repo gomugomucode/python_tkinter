@@ -1,0 +1,28 @@
+Name: Anupam Baral
+Email: anupambaral111@gmail.com
+Gender: Male
+Password: password
+----------------------------------------
+Name: anupam baral
+Email: anupam111@gmail.com
+Gender: Male
+Password Hash: $2b$12$jdnAg.4naruXxnWn.PTrf.PTvLddD1VkkBorVTsgSujFCcxvWYmsu
+----------------------------------------
+Name: asnadnad sdasdasd
+Email: sdadasdaff
+Gender: Male
+Password: $2b$12$omeQ8rWUGLvqJt07LXi9ZuF6DmS/w6kZ101.oCjF6L25rrXiahnFG
+Password Hash: b'$2b$12$omeQ8rWUGLvqJt07LXi9ZuF6DmS/w6kZ101.oCjF6L25rrXiahnFG'
+----------------------------------------
+Name: adsdsad dfsdfsdf
+Email: dfsdfsdfsdffgg
+Gender: Male
+Plain Password: aaasdfghhjkl;
+Password Hash: $2b$12$bIhCelfMTFYnyUeIm3wv8uhjxWXzI/rqDOwVh9Y37FSaDEkOpExra
+----------------------------------------
+Name: anupam barall
+Email: anupam@!11gmail.com
+Gender: Male
+Plain Password: aaaaaaaa
+Password Hash: $2b$12$gP7cnSJmqYbeJTT3vDe1f.iPLL3QTm8USymn.r/G5auY4TlUou.b2
+----------------------------------------
