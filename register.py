@@ -44,6 +44,7 @@ def submit(event=None):
     lnamefield.delete(0, END)
     emailfield.delete(0, END)
     passfield.delete(0, END)
+    
     terms_var.set(False)
     gender_var.set("Male")
     fnamefield.focus()
